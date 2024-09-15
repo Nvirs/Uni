@@ -1,0 +1,6 @@
+Filemanagement package: az 'input_03.txt' fájlt feldolgozó programot találjuk
+Filemanagement2 package: az 'input_04.txt' fájlt feldolgozó programot találjuk
+Filemanagement_Basic package: az 'input_01.txt' és 'input_02.txt' fájlokat feldolgozó programot találjuk
+
+FONTOS: ezeket a package-eket és Maven alapú projektbe importáljuk és a pom.xml-t a megfelelő módon konfigurálni és ÚJRATÖLTENI a projektet, hogy életbe lépjenek a letöltött pluginok (lásd: a tömörített fájlban található pom.xml -> javatuples plugin)!
+

@@ -1,1 +1,0 @@
-# Programoz-smodszertan-II.

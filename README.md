@@ -63,6 +63,11 @@ This repository contains all programming courses related to my university studie
 - RESTful API Development
 
 ---
+### 5. Data structures and algorithms
+- **Language**: C++
+- **Level**: Intermediate
+- **Description**: 
+  A specialized course focused on data structures and algorithms in programming area.
 
 ## 🛠 Technologies
 
